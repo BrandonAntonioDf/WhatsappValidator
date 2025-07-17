@@ -11,7 +11,7 @@ Vencimiento de la demo: 26 de julio de 2025<br><br>
 ⚙️ Requisitos de uso<br>
 ✅ Tener conexión a internet estable durante la validación.<br>
 ✅ Subir números de 10 dígitos (formato nacional, sin prefijos como +52 o espacios).<br>
-⏱ La duración de cada validación puede variar entre 0 y 30 segundos por número.<br>
+⏱ La duración de cada validación puede variar entre 0 y 50 segundos por número con el fin de evitar el bloqueo del número.<br>
 
 ☕ Es necesario tener instalado Java 21. Puedes descargarlo desde el siguiente enlace:<br>
   👉 Descargar JDK 21 para Windows (https://download.oracle.com/java/21/archive/jdk-21.0.7_windows-x64_bin.exe)<br>
