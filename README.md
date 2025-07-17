@@ -6,7 +6,7 @@ Versión compatible de Chrome: 138.0.7204.158<br><br>
 Usuario: demo<br>
 Contraseña: pruebademo<br><br>
 
-Vencimiento de la demo: 26 de julio de 2025<br><br>
+Vencimiento de la demo: 27 de julio de 2025<br><br>
 
 ⚙️ Requisitos de uso<br>
 ✅ Tener conexión a internet estable durante la validación.<br>
